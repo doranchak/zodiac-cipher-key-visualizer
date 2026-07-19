@@ -300,10 +300,24 @@
     hint.textContent = HINTS.letter;
   }
 
+  // ---------------- width lock ----------------
+  // #table2 wraps 70 columns onto several lines; its unwrapped max-content width
+  // would otherwise blow out the panel whenever it becomes the visible table.
+  // Lock the scroll container to table1's natural width (the "by letter" view,
+  // always shown first) so the panel only ever needs to be as wide as that.
+  function lockTableWidth() {
+    const scrollWrap = document.querySelector("#table-section .table-scroll");
+    const width = document.getElementById("table1").getBoundingClientRect().width;
+    // A fixed width (not just min-width) so #table2's flex-wrap is forced to
+    // wrap within it instead of stretching the panel to its unwrapped size.
+    scrollWrap.style.width = Math.ceil(width) + "px";
+  }
+
   // ---------------- init ----------------
   buildTable1();
   buildTable2();
   buildPreview();
+  lockTableWidth();
   wireToggle("cipherToggle", "cipher", v => { state.cipher = v; buildPreview(); });
   wireToggle("viewToggle", "view", v => { state.view = v; buildPreview(); });
   wireHoverDelegation();
