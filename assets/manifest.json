@@ -1,0 +1,796 @@
+{
+ "z408": {
+  "A": [
+   {
+    "id": "z408_A1",
+    "file": "assets/z408/z408_A1.png",
+    "w": 72,
+    "h": 89
+   },
+   {
+    "id": "z408_A2",
+    "file": "assets/z408/z408_A2.png",
+    "w": 64,
+    "h": 90
+   },
+   {
+    "id": "z408_A3",
+    "file": "assets/z408/z408_A3.png",
+    "w": 72,
+    "h": 91
+   },
+   {
+    "id": "z408_A4",
+    "file": "assets/z408/z408_A4.png",
+    "w": 82,
+    "h": 80
+   }
+  ],
+  "B": [
+   {
+    "id": "z408_B1",
+    "file": "assets/z408/z408_B1.png",
+    "w": 79,
+    "h": 80
+   }
+  ],
+  "C": [
+   {
+    "id": "z408_C1",
+    "file": "assets/z408/z408_C1.png",
+    "w": 78,
+    "h": 90
+   }
+  ],
+  "D": [
+   {
+    "id": "z408_D1",
+    "file": "assets/z408/z408_D1.png",
+    "w": 72,
+    "h": 90
+   },
+   {
+    "id": "z408_D2",
+    "file": "assets/z408/z408_D2.png",
+    "w": 91,
+    "h": 90
+   }
+  ],
+  "E": [
+   {
+    "id": "z408_E1",
+    "file": "assets/z408/z408_E1.png",
+    "w": 82,
+    "h": 88
+   },
+   {
+    "id": "z408_E2",
+    "file": "assets/z408/z408_E2.png",
+    "w": 64,
+    "h": 90
+   },
+   {
+    "id": "z408_E3",
+    "file": "assets/z408/z408_E3.png",
+    "w": 78,
+    "h": 79
+   },
+   {
+    "id": "z408_E4",
+    "file": "assets/z408/z408_E4.png",
+    "w": 79,
+    "h": 87
+   },
+   {
+    "id": "z408_E5",
+    "file": "assets/z408/z408_E5.png",
+    "w": 79,
+    "h": 85
+   },
+   {
+    "id": "z408_E6",
+    "file": "assets/z408/z408_E6.png",
+    "w": 71,
+    "h": 81
+   },
+   {
+    "id": "z408_E7",
+    "file": "assets/z408/z408_E7.png",
+    "w": 78,
+    "h": 90
+   }
+  ],
+  "F": [
+   {
+    "id": "z408_F1",
+    "file": "assets/z408/z408_F1.png",
+    "w": 74,
+    "h": 90
+   },
+   {
+    "id": "z408_F2",
+    "file": "assets/z408/z408_F2.png",
+    "w": 82,
+    "h": 82
+   }
+  ],
+  "G": [
+   {
+    "id": "z408_G1",
+    "file": "assets/z408/z408_G1.png",
+    "w": 75,
+    "h": 89
+   }
+  ],
+  "H": [
+   {
+    "id": "z408_H1",
+    "file": "assets/z408/z408_H1.png",
+    "w": 78,
+    "h": 87
+   },
+   {
+    "id": "z408_H2",
+    "file": "assets/z408/z408_H2.png",
+    "w": 95,
+    "h": 62
+   }
+  ],
+  "I": [
+   {
+    "id": "z408_I1",
+    "file": "assets/z408/z408_I1.png",
+    "w": 80,
+    "h": 84
+   },
+   {
+    "id": "z408_I2",
+    "file": "assets/z408/z408_I2.png",
+    "w": 70,
+    "h": 87
+   },
+   {
+    "id": "z408_I3",
+    "file": "assets/z408/z408_I3.png",
+    "w": 73,
+    "h": 86
+   },
+   {
+    "id": "z408_I4",
+    "file": "assets/z408/z408_I4.png",
+    "w": 66,
+    "h": 93
+   }
+  ],
+  "K": [
+   {
+    "id": "z408_K1",
+    "file": "assets/z408/z408_K1.png",
+    "w": 78,
+    "h": 87
+   }
+  ],
+  "L": [
+   {
+    "id": "z408_L1",
+    "file": "assets/z408/z408_L1.png",
+    "w": 85,
+    "h": 78
+   },
+   {
+    "id": "z408_L2",
+    "file": "assets/z408/z408_L2.png",
+    "w": 77,
+    "h": 90
+   },
+   {
+    "id": "z408_L3",
+    "file": "assets/z408/z408_L3.png",
+    "w": 79,
+    "h": 83
+   }
+  ],
+  "M": [
+   {
+    "id": "z408_M1",
+    "file": "assets/z408/z408_M1.png",
+    "w": 81,
+    "h": 82
+   }
+  ],
+  "N": [
+   {
+    "id": "z408_N1",
+    "file": "assets/z408/z408_N1.png",
+    "w": 77,
+    "h": 88
+   },
+   {
+    "id": "z408_N2",
+    "file": "assets/z408/z408_N2.png",
+    "w": 81,
+    "h": 89
+   },
+   {
+    "id": "z408_N3",
+    "file": "assets/z408/z408_N3.png",
+    "w": 68,
+    "h": 89
+   },
+   {
+    "id": "z408_N4",
+    "file": "assets/z408/z408_N4.png",
+    "w": 68,
+    "h": 96
+   }
+  ],
+  "O": [
+   {
+    "id": "z408_O1",
+    "file": "assets/z408/z408_O1.png",
+    "w": 76,
+    "h": 83
+   },
+   {
+    "id": "z408_O2",
+    "file": "assets/z408/z408_O2.png",
+    "w": 84,
+    "h": 80
+   },
+   {
+    "id": "z408_O3",
+    "file": "assets/z408/z408_O3.png",
+    "w": 77,
+    "h": 91
+   },
+   {
+    "id": "z408_O4",
+    "file": "assets/z408/z408_O4.png",
+    "w": 70,
+    "h": 92
+   }
+  ],
+  "P": [
+   {
+    "id": "z408_P1",
+    "file": "assets/z408/z408_P1.png",
+    "w": 79,
+    "h": 62
+   }
+  ],
+  "R": [
+   {
+    "id": "z408_R1",
+    "file": "assets/z408/z408_R1.png",
+    "w": 77,
+    "h": 91
+   },
+   {
+    "id": "z408_R2",
+    "file": "assets/z408/z408_R2.png",
+    "w": 76,
+    "h": 89
+   },
+   {
+    "id": "z408_R3",
+    "file": "assets/z408/z408_R3.png",
+    "w": 78,
+    "h": 87
+   }
+  ],
+  "S": [
+   {
+    "id": "z408_S1",
+    "file": "assets/z408/z408_S1.png",
+    "w": 75,
+    "h": 86
+   },
+   {
+    "id": "z408_S2",
+    "file": "assets/z408/z408_S2.png",
+    "w": 80,
+    "h": 77
+   },
+   {
+    "id": "z408_S3",
+    "file": "assets/z408/z408_S3.png",
+    "w": 70,
+    "h": 90
+   },
+   {
+    "id": "z408_S4",
+    "file": "assets/z408/z408_S4.png",
+    "w": 81,
+    "h": 80
+   }
+  ],
+  "T": [
+   {
+    "id": "z408_T1",
+    "file": "assets/z408/z408_T1.png",
+    "w": 69,
+    "h": 92
+   },
+   {
+    "id": "z408_T2",
+    "file": "assets/z408/z408_T2.png",
+    "w": 82,
+    "h": 84
+   },
+   {
+    "id": "z408_T3",
+    "file": "assets/z408/z408_T3.png",
+    "w": 78,
+    "h": 79
+   },
+   {
+    "id": "z408_T4",
+    "file": "assets/z408/z408_T4.png",
+    "w": 75,
+    "h": 89
+   }
+  ],
+  "U": [
+   {
+    "id": "z408_U1",
+    "file": "assets/z408/z408_U1.png",
+    "w": 80,
+    "h": 91
+   }
+  ],
+  "V": [
+   {
+    "id": "z408_V1",
+    "file": "assets/z408/z408_V1.png",
+    "w": 76,
+    "h": 85
+   }
+  ],
+  "W": [
+   {
+    "id": "z408_W1",
+    "file": "assets/z408/z408_W1.png",
+    "w": 81,
+    "h": 87
+   }
+  ],
+  "X": [
+   {
+    "id": "z408_X1",
+    "file": "assets/z408/z408_X1.png",
+    "w": 80,
+    "h": 85
+   }
+  ],
+  "Y": [
+   {
+    "id": "z408_Y1",
+    "file": "assets/z408/z408_Y1.png",
+    "w": 80,
+    "h": 80
+   }
+  ]
+ },
+ "z340": {
+  "A": [
+   {
+    "id": "z340_A1",
+    "file": "assets/z340/z340_A1.png",
+    "w": 72,
+    "h": 90
+   },
+   {
+    "id": "z340_A2",
+    "file": "assets/z340/z340_A2.png",
+    "w": 77,
+    "h": 88
+   },
+   {
+    "id": "z340_A3",
+    "file": "assets/z340/z340_A3.png",
+    "w": 84,
+    "h": 86
+   },
+   {
+    "id": "z340_A4",
+    "file": "assets/z340/z340_A4.png",
+    "w": 70,
+    "h": 90
+   },
+   {
+    "id": "z340_A5",
+    "file": "assets/z340/z340_A5.png",
+    "w": 92,
+    "h": 90
+   }
+  ],
+  "B": [
+   {
+    "id": "z340_B1",
+    "file": "assets/z340/z340_B1.png",
+    "w": 72,
+    "h": 90
+   },
+   {
+    "id": "z340_B2",
+    "file": "assets/z340/z340_B2.png",
+    "w": 80,
+    "h": 80
+   }
+  ],
+  "C": [
+   {
+    "id": "z340_C1",
+    "file": "assets/z340/z340_C1.png",
+    "w": 64,
+    "h": 90
+   }
+  ],
+  "D": [
+   {
+    "id": "z340_D1",
+    "file": "assets/z340/z340_D1.png",
+    "w": 65,
+    "h": 90
+   },
+   {
+    "id": "z340_D2",
+    "file": "assets/z340/z340_D2.png",
+    "w": 81,
+    "h": 87
+   },
+   {
+    "id": "z340_D3",
+    "file": "assets/z340/z340_D3.png",
+    "w": 79,
+    "h": 85
+   }
+  ],
+  "E": [
+   {
+    "id": "z340_E1",
+    "file": "assets/z340/z340_E1.png",
+    "w": 29,
+    "h": 84
+   },
+   {
+    "id": "z340_E2",
+    "file": "assets/z340/z340_E2.png",
+    "w": 71,
+    "h": 81
+   },
+   {
+    "id": "z340_E3",
+    "file": "assets/z340/z340_E3.png",
+    "w": 77,
+    "h": 90
+   },
+   {
+    "id": "z340_E4",
+    "file": "assets/z340/z340_E4.png",
+    "w": 76,
+    "h": 85
+   },
+   {
+    "id": "z340_E5",
+    "file": "assets/z340/z340_E5.png",
+    "w": 82,
+    "h": 85
+   },
+   {
+    "id": "z340_E6",
+    "file": "assets/z340/z340_E6.png",
+    "w": 62,
+    "h": 95
+   }
+  ],
+  "F": [
+   {
+    "id": "z340_F1",
+    "file": "assets/z340/z340_F1.png",
+    "w": 74,
+    "h": 86
+   }
+  ],
+  "G": [
+   {
+    "id": "z340_G1",
+    "file": "assets/z340/z340_G1.png",
+    "w": 76,
+    "h": 89
+   }
+  ],
+  "H": [
+   {
+    "id": "z340_H1",
+    "file": "assets/z340/z340_H1.png",
+    "w": 79,
+    "h": 87
+   }
+  ],
+  "I": [
+   {
+    "id": "z340_I1",
+    "file": "assets/z340/z340_I1.png",
+    "w": 70,
+    "h": 92
+   },
+   {
+    "id": "z340_I2",
+    "file": "assets/z340/z340_I2.png",
+    "w": 70,
+    "h": 87
+   },
+   {
+    "id": "z340_I3",
+    "file": "assets/z340/z340_I3.png",
+    "w": 65,
+    "h": 93
+   },
+   {
+    "id": "z340_I4",
+    "file": "assets/z340/z340_I4.png",
+    "w": 81,
+    "h": 79
+   },
+   {
+    "id": "z340_I5",
+    "file": "assets/z340/z340_I5.png",
+    "w": 77,
+    "h": 90
+   }
+  ],
+  "L": [
+   {
+    "id": "z340_L1",
+    "file": "assets/z340/z340_L1.png",
+    "w": 70,
+    "h": 92
+   },
+   {
+    "id": "z340_L2",
+    "file": "assets/z340/z340_L2.png",
+    "w": 81,
+    "h": 80
+   },
+   {
+    "id": "z340_L3",
+    "file": "assets/z340/z340_L3.png",
+    "w": 77,
+    "h": 91
+   }
+  ],
+  "M": [
+   {
+    "id": "z340_M1",
+    "file": "assets/z340/z340_M1.png",
+    "w": 80,
+    "h": 82
+   }
+  ],
+  "N": [
+   {
+    "id": "z340_N1",
+    "file": "assets/z340/z340_N1.png",
+    "w": 79,
+    "h": 79
+   },
+   {
+    "id": "z340_N2",
+    "file": "assets/z340/z340_N2.png",
+    "w": 68,
+    "h": 89
+   },
+   {
+    "id": "z340_N3",
+    "file": "assets/z340/z340_N3.png",
+    "w": 80,
+    "h": 91
+   },
+   {
+    "id": "z340_N4",
+    "file": "assets/z340/z340_N4.png",
+    "w": 45,
+    "h": 49
+   },
+   {
+    "id": "z340_N5",
+    "file": "assets/z340/z340_N5.png",
+    "w": 79,
+    "h": 84
+   }
+  ],
+  "O": [
+   {
+    "id": "z340_O1",
+    "file": "assets/z340/z340_O1.png",
+    "w": 75,
+    "h": 89
+   },
+   {
+    "id": "z340_O2",
+    "file": "assets/z340/z340_O2.png",
+    "w": 81,
+    "h": 89
+   },
+   {
+    "id": "z340_O3",
+    "file": "assets/z340/z340_O3.png",
+    "w": 78,
+    "h": 80
+   },
+   {
+    "id": "z340_O4",
+    "file": "assets/z340/z340_O4.png",
+    "w": 78,
+    "h": 87
+   }
+  ],
+  "P": [
+   {
+    "id": "z340_P1",
+    "file": "assets/z340/z340_P1.png",
+    "w": 82,
+    "h": 80
+   },
+   {
+    "id": "z340_P2",
+    "file": "assets/z340/z340_P2.png",
+    "w": 80,
+    "h": 85
+   }
+  ],
+  "R": [
+   {
+    "id": "z340_R1",
+    "file": "assets/z340/z340_R1.png",
+    "w": 78,
+    "h": 90
+   },
+   {
+    "id": "z340_R2",
+    "file": "assets/z340/z340_R2.png",
+    "w": 80,
+    "h": 81
+   },
+   {
+    "id": "z340_R3",
+    "file": "assets/z340/z340_R3.png",
+    "w": 76,
+    "h": 91
+   },
+   {
+    "id": "z340_R4",
+    "file": "assets/z340/z340_R4.png",
+    "w": 82,
+    "h": 88
+   },
+   {
+    "id": "z340_R5",
+    "file": "assets/z340/z340_R5.png",
+    "w": 76,
+    "h": 83
+   }
+  ],
+  "S": [
+   {
+    "id": "z340_S1",
+    "file": "assets/z340/z340_S1.png",
+    "w": 73,
+    "h": 86
+   },
+   {
+    "id": "z340_S2",
+    "file": "assets/z340/z340_S2.png",
+    "w": 73,
+    "h": 90
+   },
+   {
+    "id": "z340_S3",
+    "file": "assets/z340/z340_S3.png",
+    "w": 63,
+    "h": 87
+   },
+   {
+    "id": "z340_S4",
+    "file": "assets/z340/z340_S4.png",
+    "w": 83,
+    "h": 28
+   }
+  ],
+  "T": [
+   {
+    "id": "z340_T1",
+    "file": "assets/z340/z340_T1.png",
+    "w": 71,
+    "h": 89
+   },
+   {
+    "id": "z340_T2",
+    "file": "assets/z340/z340_T2.png",
+    "w": 67,
+    "h": 96
+   },
+   {
+    "id": "z340_T3",
+    "file": "assets/z340/z340_T3.png",
+    "w": 79,
+    "h": 83
+   },
+   {
+    "id": "z340_T4",
+    "file": "assets/z340/z340_T4.png",
+    "w": 84,
+    "h": 78
+   },
+   {
+    "id": "z340_T5",
+    "file": "assets/z340/z340_T5.png",
+    "w": 81,
+    "h": 83
+   },
+   {
+    "id": "z340_T6",
+    "file": "assets/z340/z340_T6.png",
+    "w": 80,
+    "h": 76
+   }
+  ],
+  "U": [
+   {
+    "id": "z340_U1",
+    "file": "assets/z340/z340_U1.png",
+    "w": 77,
+    "h": 87
+   },
+   {
+    "id": "z340_U2",
+    "file": "assets/z340/z340_U2.png",
+    "w": 81,
+    "h": 82
+   },
+   {
+    "id": "z340_U3",
+    "file": "assets/z340/z340_U3.png",
+    "w": 80,
+    "h": 77
+   }
+  ],
+  "V": [
+   {
+    "id": "z340_V1",
+    "file": "assets/z340/z340_V1.png",
+    "w": 79,
+    "h": 79
+   }
+  ],
+  "W": [
+   {
+    "id": "z340_W1",
+    "file": "assets/z340/z340_W1.png",
+    "w": 78,
+    "h": 80
+   },
+   {
+    "id": "z340_W2",
+    "file": "assets/z340/z340_W2.png",
+    "w": 95,
+    "h": 62
+   }
+  ],
+  "Y": [
+   {
+    "id": "z340_Y1",
+    "file": "assets/z340/z340_Y1.png",
+    "w": 75,
+    "h": 80
+   },
+   {
+    "id": "z340_Y2",
+    "file": "assets/z340/z340_Y2.png",
+    "w": 74,
+    "h": 82
+   }
+  ]
+ }
+}

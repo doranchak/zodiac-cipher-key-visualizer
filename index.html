@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zodiac Cipher Key Visualizer</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="page-header">
+  <h1>Zodiac Cipher Key Visualizer</h1>
+</header>
+
+<main>
+
+  <section class="panel" id="table-section">
+    <div class="section-head-row">
+      <div class="toggle-group" id="tableToggle">
+        <button class="toggle-btn active" data-table="letter">By plaintext letter</button>
+        <button class="toggle-btn" data-table="symbol">By cipher symbol</button>
+      </div>
+      <div class="legend">
+        <span class="legend-item"><span class="swatch z408"></span>Z408</span>
+        <span class="legend-item"><span class="swatch z340"></span>Z340</span>
+      </div>
+      <button id="matchesBtn" class="btn">Show matches</button>
+    </div>
+    <p class="hint" id="tableHint">Hover a letter or a symbol to see where else it appears.</p>
+    <div class="table-scroll">
+      <div id="table1"></div>
+      <div id="table2" class="hidden"></div>
+    </div>
+    <div id="statsPanel" class="stats-panel">
+      <span class="stats-placeholder">Hover a letter or symbol for details.</span>
+    </div>
+  </section>
+
+  <section class="panel" id="preview-section">
+    <div class="section-head-row">
+      <h2>Cipher preview</h2>
+      <div class="toggles">
+        <div class="toggle-group" id="cipherToggle">
+          <button class="toggle-btn active" data-cipher="z408">Z408</button>
+          <button class="toggle-btn" data-cipher="z340">Z340</button>
+          <button class="toggle-btn" data-cipher="z340u">Z340 (untransposed)</button>
+        </div>
+        <div class="toggle-group" id="viewToggle">
+          <button class="toggle-btn active" data-view="cipher">Cipher</button>
+          <button class="toggle-btn" data-view="plain">Plaintext</button>
+        </div>
+      </div>
+    </div>
+    <p class="hint" id="previewNote"></p>
+    <div class="preview-scroll">
+      <div id="previewGrid" class="preview-grid"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Symbols render via the combined Z340/Z408 cipher font. Ciphertext and plaintext come directly from the provided transcriptions (z408.txt, z340.txt, z340-untransposed.txt and their plaintext pairs).</p>
+</footer>
+
+<script src="assets/data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
